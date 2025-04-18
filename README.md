@@ -1,4 +1,4 @@
-![Capa do Projeto](./capa-lista-filmes-api.png)
+![Capa do Projeto](./capa-lista-filmes-api.jpg)
 
 # 🎬 Lista de Filmes Favoritos com API
 
